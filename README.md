@@ -1,7 +1,7 @@
 ## 🪴 SQL Foundation
 
 - Key Insights: Developed foundational SQL skills to support data analysis and workflow efficiency.
-- Tools Used: VS Code, MySQL Workbench, GitHub Copilot  
+- Tools Used: VS Code, MySQL Workbench, DBeaver, MySQL Server, GitHub Copilot  
 
 ---
 
