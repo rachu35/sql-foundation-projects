@@ -21,7 +21,7 @@ Topics:
 - Alter/Drop VIEW  
 
 #### 🌱 Superstore
-Dataset Source: https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset
+Dataset Source: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data
 
 Topics:  
 - Sales performance analysis  
