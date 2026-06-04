@@ -5,9 +5,9 @@
 
 ---
 
-### 🌱 Projects
+### 🌿 Projects
 
-#### Chinook
+#### 🌱 Chinook
 Dataset Source: https://github.com/lerocha/chinook-database.git  
 
 Topics:  
@@ -18,9 +18,14 @@ Topics:
 - Aliases Queries
 - Combined Queries
 - Create VIEW
-- Alter/Drop VIEW
+- Alter/Drop VIEW  
 
-#### Kaggle
-Dataset Source: 
+#### 🌱 Superstore
+Dataset Source: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 Topics:  
+- Sales performance analysis  
+- Profitability analysis  
+- Regional analysis  
+- Product Category analysis  
+- Customer Segment analysis
