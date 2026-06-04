@@ -7,7 +7,7 @@
 
 ### 🌱 Projects
 
-#### Coursera Learning - chinook
+#### Chinook
 Dataset Source: https://github.com/lerocha/chinook-database.git  
 
 Topics:  
