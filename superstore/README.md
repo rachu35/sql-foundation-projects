@@ -18,8 +18,8 @@
 
 
 ### 📊 Product Category analysis
-- Sub-category Analysis
-- Best Selling Categories
+- Sub-category
+- Best selling
  
 
 ### 📊 Customer Segment analysis
