@@ -8,7 +8,7 @@
 
 ### 🌿 Projects
 
-#### 🌱 chinook
+#### 🌱 chinook (basic)
 Dataset Source: https://github.com/lerocha/chinook-database.git  
 
 Topics:  
@@ -21,15 +21,25 @@ Topics:
 - Create VIEW
 - Alter/Drop VIEW  
 
-#### 🌱 Superstore
+#### 🌱 Superstore (basic)
 Dataset Source: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data
 
 Topics:  
-- Sales performance analysis  
-- Profitability analysis  
-- Regional analysis  
-- Product Category analysis  
-- Customer Segment analysis
+- Sales performance  
+- Profitability  
+- Regional  
+- Product category  
+- Customer segment
 
-#### 🌱 E-Commerce(Olist)
+#### 🌱 E-Commerce-Olist (intermediate)
 Dataset Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data
+
+Topics:  
+- Sales  
+- Customer  
+- Seller  
+- Product  
+- Cashflow & Payment  
+- Logistics  
+- Review  
+- Geography  
