@@ -31,5 +31,5 @@ Topics:
 - Product Category analysis  
 - Customer Segment analysis
 
-#### 🌱 E-Commerce 
+#### 🌱 E-Commerce(Olist)
 Dataset Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data
