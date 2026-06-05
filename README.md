@@ -35,6 +35,7 @@ Topics:
 Dataset Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data
 
 Topics:  
+- Table relationship  
 - Sales  
 - Customer  
 - Seller  
