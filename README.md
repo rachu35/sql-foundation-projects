@@ -29,3 +29,6 @@ Topics:
 - Regional analysis  
 - Product Category analysis  
 - Customer Segment analysis
+
+#### 🌱 E-Commerce 
+Dataset Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data
