@@ -1,4 +1,4 @@
-### 📊 Sales Performance Analysis  
+### 🌱 Sales Performance Analysis  
 - Total sales
 - Monthly sales trend
 - Top 10 customers
@@ -6,22 +6,22 @@
 - Average order value  
 
 
-### 📊 Profitability Analysis 
+### 🌱 Profitability Analysis 
 - Category profitability
 - Loss-making products
 - Discount impact on profit
 
 
-### 📊 Regional analysis
+### 🌱 Regional analysis
 - Region sales & profit
 - Top states
 
 
-### 📊 Product Category analysis
+### 🌱 Product Category analysis
 - Sub-category
 - Best selling
  
 
-### 📊 Customer Segment analysis
+### 🌱 Customer Segment analysis
 - Segment performance
 - Average customer spending
