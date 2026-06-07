@@ -36,5 +36,9 @@
 
 
 ### 🌱 Logistics
-### 🌱 Review
-### 🌱 Geography
+- Average freight cost
+- Delivery performance
+- Late delivery
+- Freight cost by product category
+- product weight vs freight
+
