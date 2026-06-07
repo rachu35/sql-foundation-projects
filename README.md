@@ -42,5 +42,3 @@ Topics:
 - Product  
 - Cashflow & Payment  
 - Logistics  
-- Review  
-- Geography  
